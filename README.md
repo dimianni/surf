@@ -1,4 +1,4 @@
-# A landing page for a surfcamp.
+# A landing page for a surfcamp
 
 This was my first website build with a task runner, in this case it is [Gulp](https://gulpjs.com/). This configuration is quite outdated now (26 May 2021) and it uses old syntax. [Here](https://github.com/dimianni/gulp_config) is my new version of Gulp configuration. And [here](https://github.com/dimianni/my-webpack-configuration) is my even newer webpack configuration.
 
